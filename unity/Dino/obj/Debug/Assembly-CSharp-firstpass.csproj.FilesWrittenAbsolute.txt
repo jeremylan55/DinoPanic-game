@@ -1,0 +1,17 @@
+/Users/uken/Desktop/Dino/unity/Dino/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/uken/Desktop/Dino/unity/Dino/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/uken/Desktop/Dino/unity/Dino/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/uken/Desktop/Dino/unity/Dino/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/uken/Desktop/Dino/unity/Dino/Temp/bin/Debug/UnityEngine.dll
+/Users/uken/Desktop/Dino/unity/Dino/Temp/bin/Debug/UnityEditor.dll
+/Users/uken/Desktop/Dino/unity/Dino/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/uken/Desktop/Dino/unity/Dino/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/uken/Desktop/Dino/unity/Dino/Temp/bin/Debug/Mono.Cecil.dll
+/Users/uken/Desktop/Dino/unity/Dino/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/uken/Desktop/Dino/unity/Dino/Temp/bin/Debug/Unity.DataContract.dll
+/Users/uken/Desktop/Dino/unity/Dino/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/uken/Desktop/Dino/unity/Dino/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/uken/Desktop/Dino/unity/Dino/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/uken/Desktop/Dino/unity/Dino/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/uken/Desktop/Dino/unity/Dino/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/uken/Desktop/Dino/unity/Dino/Temp/bin/Debug/Mono.Cecil.Mdb.dll

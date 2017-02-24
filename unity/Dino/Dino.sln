@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{69150DB2-295D-E887-B03F-C7E3A0E9EEBB}") = "Dino", "Assembly-CSharp-firstpass.csproj", "{82CA854F-82FE-2EF1-1CA8-93478BF0B430}"
+EndProject
+Project("{69150DB2-295D-E887-B03F-C7E3A0E9EEBB}") = "Dino", "Assembly-CSharp.csproj", "{0C7B4658-8421-1991-0A04-14E3FFB1A490}"
+EndProject
+Project("{69150DB2-295D-E887-B03F-C7E3A0E9EEBB}") = "Dino", "Assembly-CSharp-Editor.csproj", "{069FF53C-C5AA-2867-8C3F-013FC7732717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82CA854F-82FE-2EF1-1CA8-93478BF0B430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CA854F-82FE-2EF1-1CA8-93478BF0B430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82CA854F-82FE-2EF1-1CA8-93478BF0B430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82CA854F-82FE-2EF1-1CA8-93478BF0B430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C7B4658-8421-1991-0A04-14E3FFB1A490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7B4658-8421-1991-0A04-14E3FFB1A490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7B4658-8421-1991-0A04-14E3FFB1A490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7B4658-8421-1991-0A04-14E3FFB1A490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{069FF53C-C5AA-2867-8C3F-013FC7732717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{069FF53C-C5AA-2867-8C3F-013FC7732717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{069FF53C-C5AA-2867-8C3F-013FC7732717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{069FF53C-C5AA-2867-8C3F-013FC7732717}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
